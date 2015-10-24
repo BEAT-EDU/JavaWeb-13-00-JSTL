@@ -1,0 +1,1 @@
+<img src="http://db.cs.loyola.edu:4401/jstl/image?imageId=${param.imageId}"/>
